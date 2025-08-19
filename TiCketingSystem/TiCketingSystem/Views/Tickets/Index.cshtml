@@ -1,0 +1,54 @@
+﻿@model IEnumerable<TiCketingSystem.Models.Tickets>
+@{
+    ViewData["Title"] = "Tickets";
+}
+<div class="container mt-4">
+    <h2 class="mb-4">لیست تیکت ها</h2>
+
+    <table class="table table-striped table-hover">
+        <thead class="table-dark">
+            <tr>
+                <th> # </th>
+                <th>عنوان</th>
+                <th>کاربر</th>
+                <th>وضعیت</th>
+                <th>تاریخ ایجاد</th>
+                <th>عملیات</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var ticket in Model)
+            {
+                <tr>
+                    <td>@ticket.Id</td>
+                    <td>@ticket.Title</td>
+                    <td>@ticket.User.FullName</td>
+                    <td>
+                        <span class="badge @(ticket.Status ==TicketStatus.InProgress? "bg-warning" : "bg-success")">
+                            @ticket.Status
+                        </span>
+                    </td>
+                    <td>@ticket.CreatedAt.ToShortDateString()</td>
+                    <td>
+                        <a href="@Url.Action("Details","Tickets", new { id = ticket.Id })"
+                           class="btn btn-sm btn-primary">مشاهده</a>
+                    </td>
+                </tr>
+            }
+            <tr>
+                <td>1</td>
+                <td>مشکل ورود به سیستم</td>
+                <td>ali</td>
+                <td><span class="badge bg-warning">باز </span></td>
+                <td>1404/05/19</td>
+                <td>
+                    <a href="#" class="btn btn-sm btn-primary">مشاهده</a>
+                </td>
+            </tr>
+        </tbody>
+            
+    </table>
+    <button class="btn btn-success"> ایجاد تیکت جدید</button>
+
+
+</div>

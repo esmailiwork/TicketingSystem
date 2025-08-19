@@ -1,0 +1,392 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nazi\\source\\repos\\TicketingSystem\\TiCketingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1483E30D-9D31-4E9C-8C1D-89355AFA301E}|TiCketingSystem\\TiCketingSystem.csproj|c:\\users\\nazi\\source\\repos\\ticketingsystem\\ticketingsystem\\ticketingsystem\\services\\iticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1483E30D-9D31-4E9C-8C1D-89355AFA301E}|TiCketingSystem\\TiCketingSystem.csproj|solutionrelative:ticketingsystem\\services\\iticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1483E30D-9D31-4E9C-8C1D-89355AFA301E}|TiCketingSystem\\TiCketingSystem.csproj|c:\\users\\nazi\\source\\repos\\ticketingsystem\\ticketingsystem\\ticketingsystem\\views\\tickets\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1483E30D-9D31-4E9C-8C1D-89355AFA301E}|TiCketingSystem\\TiCketingSystem.csproj|solutionrelative:ticketingsystem\\views\\tickets\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1483E30D-9D31-4E9C-8C1D-89355AFA301E}|TiCketingSystem\\TiCketingSystem.csproj|c:\\users\\nazi\\source\\repos\\ticketingsystem\\ticketingsystem\\ticketingsystem\\models\\tickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1483E30D-9D31-4E9C-8C1D-89355AFA301E}|TiCketingSystem\\TiCketingSystem.csproj|solutionrelative:ticketingsystem\\models\\tickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1483E30D-9D31-4E9C-8C1D-89355AFA301E}|TiCketingSystem\\TiCketingSystem.csproj|c:\\users\\nazi\\source\\repos\\ticketingsystem\\ticketingsystem\\ticketingsystem\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1483E30D-9D31-4E9C-8C1D-89355AFA301E}|TiCketingSystem\\TiCketingSystem.csproj|solutionrelative:ticketingsystem\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1483E30D-9D31-4E9C-8C1D-89355AFA301E}|TiCketingSystem\\TiCketingSystem.csproj|c:\\users\\nazi\\source\\repos\\ticketingsystem\\ticketingsystem\\ticketingsystem\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1483E30D-9D31-4E9C-8C1D-89355AFA301E}|TiCketingSystem\\TiCketingSystem.csproj|solutionrelative:ticketingsystem\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1483E30D-9D31-4E9C-8C1D-89355AFA301E}|TiCketingSystem\\TiCketingSystem.csproj|c:\\users\\nazi\\source\\repos\\ticketingsystem\\ticketingsystem\\ticketingsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1483E30D-9D31-4E9C-8C1D-89355AFA301E}|TiCketingSystem\\TiCketingSystem.csproj|solutionrelative:ticketingsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1483E30D-9D31-4E9C-8C1D-89355AFA301E}|TiCketingSystem\\TiCketingSystem.csproj|c:\\users\\nazi\\source\\repos\\ticketingsystem\\ticketingsystem\\ticketingsystem\\services\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1483E30D-9D31-4E9C-8C1D-89355AFA301E}|TiCketingSystem\\TiCketingSystem.csproj|solutionrelative:ticketingsystem\\services\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1483E30D-9D31-4E9C-8C1D-89355AFA301E}|TiCketingSystem\\TiCketingSystem.csproj|c:\\users\\nazi\\source\\repos\\ticketingsystem\\ticketingsystem\\ticketingsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1483E30D-9D31-4E9C-8C1D-89355AFA301E}|TiCketingSystem\\TiCketingSystem.csproj|solutionrelative:ticketingsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1483E30D-9D31-4E9C-8C1D-89355AFA301E}|TiCketingSystem\\TiCketingSystem.csproj|c:\\users\\nazi\\source\\repos\\ticketingsystem\\ticketingsystem\\ticketingsystem\\data\\migrations\\20250815083838_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1483E30D-9D31-4E9C-8C1D-89355AFA301E}|TiCketingSystem\\TiCketingSystem.csproj|solutionrelative:ticketingsystem\\data\\migrations\\20250815083838_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1483E30D-9D31-4E9C-8C1D-89355AFA301E}|TiCketingSystem\\TiCketingSystem.csproj|c:\\users\\nazi\\source\\repos\\ticketingsystem\\ticketingsystem\\ticketingsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1483E30D-9D31-4E9C-8C1D-89355AFA301E}|TiCketingSystem\\TiCketingSystem.csproj|solutionrelative:ticketingsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1483E30D-9D31-4E9C-8C1D-89355AFA301E}|TiCketingSystem\\TiCketingSystem.csproj|c:\\users\\nazi\\source\\repos\\ticketingsystem\\ticketingsystem\\ticketingsystem\\models\\ticketmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1483E30D-9D31-4E9C-8C1D-89355AFA301E}|TiCketingSystem\\TiCketingSystem.csproj|solutionrelative:ticketingsystem\\models\\ticketmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1483E30D-9D31-4E9C-8C1D-89355AFA301E}|TiCketingSystem\\TiCketingSystem.csproj|c:\\users\\nazi\\source\\repos\\ticketingsystem\\ticketingsystem\\ticketingsystem\\models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1483E30D-9D31-4E9C-8C1D-89355AFA301E}|TiCketingSystem\\TiCketingSystem.csproj|solutionrelative:ticketingsystem\\models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1483E30D-9D31-4E9C-8C1D-89355AFA301E}|TiCketingSystem\\TiCketingSystem.csproj|c:\\users\\nazi\\source\\repos\\ticketingsystem\\ticketingsystem\\ticketingsystem\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1483E30D-9D31-4E9C-8C1D-89355AFA301E}|TiCketingSystem\\TiCketingSystem.csproj|solutionrelative:ticketingsystem\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1483E30D-9D31-4E9C-8C1D-89355AFA301E}|TiCketingSystem\\TiCketingSystem.csproj|c:\\users\\nazi\\source\\repos\\ticketingsystem\\ticketingsystem\\ticketingsystem\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1483E30D-9D31-4E9C-8C1D-89355AFA301E}|TiCketingSystem\\TiCketingSystem.csproj|solutionrelative:ticketingsystem\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1483E30D-9D31-4E9C-8C1D-89355AFA301E}|TiCketingSystem\\TiCketingSystem.csproj|c:\\users\\nazi\\source\\repos\\ticketingsystem\\ticketingsystem\\ticketingsystem\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1483E30D-9D31-4E9C-8C1D-89355AFA301E}|TiCketingSystem\\TiCketingSystem.csproj|solutionrelative:ticketingsystem\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1483E30D-9D31-4E9C-8C1D-89355AFA301E}|TiCketingSystem\\TiCketingSystem.csproj|c:\\users\\nazi\\source\\repos\\ticketingsystem\\ticketingsystem\\ticketingsystem\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1483E30D-9D31-4E9C-8C1D-89355AFA301E}|TiCketingSystem\\TiCketingSystem.csproj|solutionrelative:ticketingsystem\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1483E30D-9D31-4E9C-8C1D-89355AFA301E}|TiCketingSystem\\TiCketingSystem.csproj|c:\\users\\nazi\\source\\repos\\ticketingsystem\\ticketingsystem\\ticketingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1483E30D-9D31-4E9C-8C1D-89355AFA301E}|TiCketingSystem\\TiCketingSystem.csproj|solutionrelative:ticketingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 26,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:254354193:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nazi\\source\\repos\\TicketingSystem\\TiCketingSystem\\TiCketingSystem\\Views\\Tickets\\Index.cshtml",
+              "RelativeDocumentMoniker": "TiCketingSystem\\Views\\Tickets\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nazi\\source\\repos\\TicketingSystem\\TiCketingSystem\\TiCketingSystem\\Views\\Tickets\\Index.cshtml",
+              "RelativeToolTip": "TiCketingSystem\\Views\\Tickets\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T10:46:45.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TicketsController.cs",
+              "DocumentMoniker": "C:\\Users\\Nazi\\source\\repos\\TicketingSystem\\TiCketingSystem\\TiCketingSystem\\Controllers\\TicketsController.cs",
+              "RelativeDocumentMoniker": "TiCketingSystem\\Controllers\\TicketsController.cs",
+              "ToolTip": "C:\\Users\\Nazi\\source\\repos\\TicketingSystem\\TiCketingSystem\\TiCketingSystem\\Controllers\\TicketsController.cs",
+              "RelativeToolTip": "TiCketingSystem\\Controllers\\TicketsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T10:36:51.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TicketService.cs",
+              "DocumentMoniker": "C:\\Users\\Nazi\\source\\repos\\TicketingSystem\\TiCketingSystem\\TiCketingSystem\\Services\\TicketService.cs",
+              "RelativeDocumentMoniker": "TiCketingSystem\\Services\\TicketService.cs",
+              "ToolTip": "C:\\Users\\Nazi\\source\\repos\\TicketingSystem\\TiCketingSystem\\TiCketingSystem\\Services\\TicketService.cs",
+              "RelativeToolTip": "TiCketingSystem\\Services\\TicketService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwB8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T10:14:54.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ITicketService.cs",
+              "DocumentMoniker": "C:\\Users\\Nazi\\source\\repos\\TicketingSystem\\TiCketingSystem\\TiCketingSystem\\Services\\ITicketService.cs",
+              "RelativeDocumentMoniker": "TiCketingSystem\\Services\\ITicketService.cs",
+              "ToolTip": "C:\\Users\\Nazi\\source\\repos\\TicketingSystem\\TiCketingSystem\\TiCketingSystem\\Services\\ITicketService.cs",
+              "RelativeToolTip": "TiCketingSystem\\Services\\ITicketService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T10:12:29.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TicketMessages.cs",
+              "DocumentMoniker": "C:\\Users\\Nazi\\source\\repos\\TicketingSystem\\TiCketingSystem\\TiCketingSystem\\Models\\TicketMessages.cs",
+              "RelativeDocumentMoniker": "TiCketingSystem\\Models\\TicketMessages.cs",
+              "ToolTip": "C:\\Users\\Nazi\\source\\repos\\TicketingSystem\\TiCketingSystem\\TiCketingSystem\\Models\\TicketMessages.cs",
+              "RelativeToolTip": "TiCketingSystem\\Models\\TicketMessages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T08:25:52.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\Nazi\\source\\repos\\TicketingSystem\\TiCketingSystem\\TiCketingSystem\\Models\\Roles.cs",
+              "RelativeDocumentMoniker": "TiCketingSystem\\Models\\Roles.cs",
+              "ToolTip": "C:\\Users\\Nazi\\source\\repos\\TicketingSystem\\TiCketingSystem\\TiCketingSystem\\Models\\Roles.cs",
+              "RelativeToolTip": "TiCketingSystem\\Models\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T06:58:31.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tickets.cs",
+              "DocumentMoniker": "C:\\Users\\Nazi\\source\\repos\\TicketingSystem\\TiCketingSystem\\TiCketingSystem\\Models\\Tickets.cs",
+              "RelativeDocumentMoniker": "TiCketingSystem\\Models\\Tickets.cs",
+              "ToolTip": "C:\\Users\\Nazi\\source\\repos\\TicketingSystem\\TiCketingSystem\\TiCketingSystem\\Models\\Tickets.cs",
+              "RelativeToolTip": "TiCketingSystem\\Models\\Tickets.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T06:51:39.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\Nazi\\source\\repos\\TicketingSystem\\TiCketingSystem\\TiCketingSystem\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "TiCketingSystem\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\Nazi\\source\\repos\\TicketingSystem\\TiCketingSystem\\TiCketingSystem\\Models\\Users.cs",
+              "RelativeToolTip": "TiCketingSystem\\Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T06:56:29.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250815083838_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Nazi\\source\\repos\\TicketingSystem\\TiCketingSystem\\TiCketingSystem\\Data\\Migrations\\20250815083838_InitialCreate.cs",
+              "RelativeDocumentMoniker": "TiCketingSystem\\Data\\Migrations\\20250815083838_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Nazi\\source\\repos\\TicketingSystem\\TiCketingSystem\\TiCketingSystem\\Data\\Migrations\\20250815083838_InitialCreate.cs",
+              "RelativeToolTip": "TiCketingSystem\\Data\\Migrations\\20250815083838_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T08:38:39.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nazi\\source\\repos\\TicketingSystem\\TiCketingSystem\\TiCketingSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "TiCketingSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Nazi\\source\\repos\\TicketingSystem\\TiCketingSystem\\TiCketingSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "TiCketingSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T06:48:27.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nazi\\source\\repos\\TicketingSystem\\TiCketingSystem\\TiCketingSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "TiCketingSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Nazi\\source\\repos\\TicketingSystem\\TiCketingSystem\\TiCketingSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "TiCketingSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T06:48:01.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nazi\\source\\repos\\TicketingSystem\\TiCketingSystem\\TiCketingSystem\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "TiCketingSystem\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Nazi\\source\\repos\\TicketingSystem\\TiCketingSystem\\TiCketingSystem\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "TiCketingSystem\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T06:26:33.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nazi\\source\\repos\\TicketingSystem\\TiCketingSystem\\TiCketingSystem\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "TiCketingSystem\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Nazi\\source\\repos\\TicketingSystem\\TiCketingSystem\\TiCketingSystem\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "TiCketingSystem\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T06:26:30.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nazi\\source\\repos\\TicketingSystem\\TiCketingSystem\\TiCketingSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TiCketingSystem\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Nazi\\source\\repos\\TicketingSystem\\TiCketingSystem\\TiCketingSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TiCketingSystem\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T06:26:28.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nazi\\source\\repos\\TicketingSystem\\TiCketingSystem\\TiCketingSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TiCketingSystem\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Nazi\\source\\repos\\TicketingSystem\\TiCketingSystem\\TiCketingSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TiCketingSystem\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T06:22:52.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nazi\\source\\repos\\TicketingSystem\\TiCketingSystem\\TiCketingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "TiCketingSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Nazi\\source\\repos\\TicketingSystem\\TiCketingSystem\\TiCketingSystem\\Program.cs",
+              "RelativeToolTip": "TiCketingSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T06:22:42.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nazi\\source\\repos\\TicketingSystem\\TiCketingSystem\\TiCketingSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "TiCketingSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nazi\\source\\repos\\TicketingSystem\\TiCketingSystem\\TiCketingSystem\\appsettings.json",
+              "RelativeToolTip": "TiCketingSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-15T06:22:01.804Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
